@@ -1,0 +1,4 @@
+#Sun Apr 19 14:04:47 AST 2020
+base.0=/Users/erwin/Developer/ncovph/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
